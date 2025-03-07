@@ -1,26 +1,20 @@
 {
-  "TRAIN_NO": "13185",
+  "TRAIN_NO": "11059",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAVEL_DATE": "06/05/2025",
+  "SOURCE_STATION": "LTT",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
-  "TATKAL": true,
+  "DESTINATION_STATION": "MAU",
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
+   
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
-      "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
+      "NAME": "Poonam Yadav",
+      "AGE": 41,
       "GENDER": "Female",
-      "SEAT": "No Preference",
+      "SEAT": "Lower",
       "FOOD": "No Food"
     }
   ],
